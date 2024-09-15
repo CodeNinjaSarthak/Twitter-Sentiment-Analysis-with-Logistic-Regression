@@ -48,5 +48,5 @@ The project implements a Logistic Regression model to classify tweets into posit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/twitter-sentiment-logreg.git
-   cd twitter-sentiment-logreg
+   git clone https://github.com/CodeNinjaSarthak/twitter-sentiment-analysis-with-logisticregression.git
+   cd twitter-sentiment-analysis-with-logisticregression
